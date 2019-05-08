@@ -1,0 +1,15 @@
+.header {
+    background:red;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .posts .post{
+    padding-left: 10px;
+    border-left: 3px solid #a21ba2;
+    margin-bottom: 30px
+}
+.posts .post .info{
+    color: #aaa;
+    font-style: italic;
+}
